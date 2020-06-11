@@ -6,10 +6,10 @@
 	import mods.contenttweaker.Item;
 	import mods.contenttweaker.Block;
 	
-// Fool Card
+// The Fool Card
 	var cardFool as Item = VanillaFactory.createItem("cardFool");
 	cardFool.register();
 	
-// Blank
+// The Blank Card
 	var cardBlank as Item = VanillaFactory.createItem("cardBlank");
 	cardBlank.register();
